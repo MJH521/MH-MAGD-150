@@ -1,4 +1,4 @@
-# MH-MAGD-150
+# **MH-MAGD-150**
 
 ## **Lab 1**
 This canvas contains a _Grayscale Cityscape_ scene with four different rectangles to represent three buildings and one for the ground, and an ellipse to represent the moon.
